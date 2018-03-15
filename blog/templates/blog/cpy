@@ -1,0 +1,20 @@
+<html>
+	<head>
+		<title>my blog</title>
+	</head>
+
+	<body>
+		<div>
+			<h1><a href="https://tutorial.djangogirls.org/en/html/">django girls</a></h1>
+		</div>
+
+		<div>
+			<p> published : 12th March 2018</p>
+			</p> 
+		<p>Django Girls is an international non-profit organization started by two Polish women, Ola Sitarska and Ola Sendecka, to inspire women from all backgrounds to get interested in technology and to become programmers, offering a safe and friendly environment. It is known for the free workshops it hosts to help women to learn to program and for its Django tutorial. It is often supported by the Python Software Foundation.
+		
+		</p>
+		</div>
+
+	</body>
+</html>
